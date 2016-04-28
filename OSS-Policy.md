@@ -6,6 +6,8 @@ Document Status: DRAFT / Request for Comments
 
 This document is released under the Creative Commons Attribution-ShareAlike (CC BY-SA). [View License Deed][1]. [View Legal Code][2].
 
+Original document from [eVision Industry Software](https://github.com/eVisionSoftware/OpenSourcePolicy/blob/master/OSS-Policy.md)
+
 ## DEFINITIONS ##
 
 The term **‘Open-Source Software’** or **‘OSS’** used in this Policy means any software whose source code falls under the [Open Source Initiative Definition 1.9][0]
