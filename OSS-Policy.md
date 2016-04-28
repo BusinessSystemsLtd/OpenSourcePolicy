@@ -12,7 +12,7 @@ Original document from [eVision Industry Software](https://github.com/eVisionSof
 
 The term **‘Open-Source Software’** or **‘OSS’** used in this Policy means any software whose source code falls under the [Open Source Initiative Definition 1.9][0]
 
-**BSL** - Business Systems (UK) Ltd
+**BSL** - Business Systems (UK) Ltd.
 
 **BSL OSS** – open-source software released by BSL where BSL retains full copyrights. 
 
